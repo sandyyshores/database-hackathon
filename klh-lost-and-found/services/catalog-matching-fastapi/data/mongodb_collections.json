@@ -1,0 +1,261 @@
+{
+  "item_flexible_details": [
+    {
+      "_id": "doc_028ba80cf02a4d21",
+      "item_id": 1,
+      "tags": [
+        "insulated flask",
+        "750ml",
+        "matte finish"
+      ],
+      "custom_attributes": {
+        "Capacity": "750 ml",
+        "Material": "Stainless Steel"
+      },
+      "finder_secret_clue": "",
+      "handover_instructions": "Please reach out on campus portal if spotted.",
+      "updated_at": "2026-10-30T14:01:52.482601+00:00"
+    },
+    {
+      "_id": "doc_e88a124b72044063",
+      "item_id": 2,
+      "tags": [
+        "water bottle",
+        "navy",
+        "sipper"
+      ],
+      "custom_attributes": {
+        "Condition": "Good, half full",
+        "Cap Style": "Flip lid"
+      },
+      "finder_secret_clue": "Small white mountain peak vinyl sticker near the bottom rim",
+      "handover_instructions": "Available for pickup at Canteen Helpdesk between 9 AM and 5 PM.",
+      "updated_at": "2026-10-30T14:01:52.504224+00:00"
+    },
+    {
+      "_id": "doc_02e4903bfa504ece",
+      "item_id": 3,
+      "tags": [
+        "airpods",
+        "wireless earbuds",
+        "silicone sleeve"
+      ],
+      "custom_attributes": {
+        "Model": "AirPods Pro (USB-C)",
+        "Attachment": "Mini silver carabiner"
+      },
+      "finder_secret_clue": "",
+      "handover_instructions": "",
+      "updated_at": "2026-10-30T14:01:52.524181+00:00"
+    },
+    {
+      "_id": "doc_36ccfa7ebe8649f0",
+      "item_id": 4,
+      "tags": [
+        "earbuds",
+        "charging case",
+        "green cover"
+      ],
+      "custom_attributes": {
+        "Battery Light": "Amber LED working",
+        "Case Cover": "Soft silicone"
+      },
+      "finder_secret_clue": "Silver mini carabiner clip on the side and initials GG lightly marked inside lid",
+      "handover_instructions": "Kept safely at SAC Coordinator Desk.",
+      "updated_at": "2026-10-30T14:01:52.540817+00:00"
+    },
+    {
+      "_id": "doc_bc62f36400194be4",
+      "item_id": 5,
+      "tags": [
+        "scientific calculator",
+        "fx-991cw",
+        "203"
+      ],
+      "custom_attributes": {
+        "Model": "ClassWiz fx-991CW",
+        "Back Label": "Roll digits written in marker"
+      },
+      "finder_secret_clue": "",
+      "handover_instructions": "",
+      "updated_at": "2026-10-30T14:01:52.558452+00:00"
+    },
+    {
+      "_id": "doc_ae9e1ff11a0544be",
+      "item_id": 6,
+      "tags": [
+        "calculator",
+        "casio",
+        "203"
+      ],
+      "custom_attributes": {
+        "Slide Cover": "Included",
+        "Series": "ClassWiz"
+      },
+      "finder_secret_clue": "0555 written in silver marker inside the hard cover",
+      "handover_instructions": "Collect from 2nd Floor Coordinator Desk with your KLH ID card.",
+      "updated_at": "2026-10-30T14:01:52.577401+00:00"
+    },
+    {
+      "_id": "doc_ea7775a09d7f44ee",
+      "item_id": 7,
+      "tags": [
+        "keys",
+        "lanyard",
+        "bike key",
+        "boys common room"
+      ],
+      "custom_attributes": {
+        "Keys": "Scooter key + house key",
+        "Lanyard": "KLH crimson strap"
+      },
+      "finder_secret_clue": "Tiny white astronaut charm on the ring",
+      "handover_instructions": "Available at Ground Floor Reception Desk.",
+      "updated_at": "2026-10-30T14:01:52.593332+00:00"
+    },
+    {
+      "_id": "doc_c940202db56c49b8",
+      "item_id": 8,
+      "tags": [
+        "spectacles",
+        "eyeglasses",
+        "404"
+      ],
+      "custom_attributes": {
+        "Frame Shape": "Rounded rectangle",
+        "Cloth": "Grey microfiber inside"
+      },
+      "finder_secret_clue": "",
+      "handover_instructions": "",
+      "updated_at": "2026-10-30T14:01:52.615466+00:00"
+    },
+    {
+      "_id": "doc_a10fc71e2df44a15",
+      "item_id": 9,
+      "tags": [
+        "laptop charger",
+        "usb-c",
+        "lab 15"
+      ],
+      "custom_attributes": {
+        "Wattage": "65W USB-C PD",
+        "Cable Length": "1.8m braided"
+      },
+      "finder_secret_clue": "Velcro strap with blue dot near the Type-C connector",
+      "handover_instructions": "Collect from Lab Assistant Counter before 5:00 PM.",
+      "updated_at": "2026-10-30T14:01:52.633412+00:00"
+    },
+    {
+      "_id": "doc_95158247e8cb4e15",
+      "item_id": 10,
+      "tags": [
+        "wallet",
+        "cardholder",
+        "reunited"
+      ],
+      "custom_attributes": {
+        "Slots": "4 card pockets",
+        "Returned": "Verified via KLH ID"
+      },
+      "finder_secret_clue": "Hyderabad Metro smart card in front slot",
+      "handover_instructions": "Handover completed.",
+      "updated_at": "2026-10-30T14:01:52.653422+00:00"
+    },
+    {
+      "_id": "doc_742d1f5e0cd346a5",
+      "item_id": 11,
+      "tags": [
+        "notebook",
+        "pen pouch",
+        "girls common room"
+      ],
+      "custom_attributes": {
+        "Notebook": "Classmate 300 pages",
+        "Pouch": "Grey mesh zip"
+      },
+      "finder_secret_clue": "DBMS & OS handwritten title page with two Pentel EnerGel pens",
+      "handover_instructions": "Kept at Ground Floor Reception Desk.",
+      "updated_at": "2026-10-30T14:01:52.672101+00:00"
+    },
+    {
+      "_id": "doc_0aa29f9abfd04440",
+      "item_id": 12,
+      "tags": [
+        "wireless mouse",
+        "logitech",
+        "108"
+      ],
+      "custom_attributes": {
+        "Receiver": "USB nano receiver inside battery lid"
+      },
+      "finder_secret_clue": "",
+      "handover_instructions": "",
+      "updated_at": "2026-10-30T14:01:52.688147+00:00"
+    },
+    {
+      "_id": "doc_ed6b74aadad04a9e",
+      "item_id": 13,
+      "tags": [
+        "record book",
+        "lab 01",
+        "2520030330"
+      ],
+      "custom_attributes": {
+        "Subject": "DBMS Lab",
+        "Roll Tagged": "2520030330"
+      },
+      "finder_secret_clue": "Signed Lab 1 to Lab 6 experiments",
+      "handover_instructions": "Show pickup QR pass at Lab Assistant Counter.",
+      "updated_at": "2026-10-30T14:01:52.707038+00:00"
+    }
+  ],
+  "claim_verification_threads": [
+    {
+      "_id": "thr_68aa8eb98404",
+      "claim_id": 1,
+      "events": [
+        {
+          "timestamp": "2026-10-30T14:01:52.876362+00:00",
+          "actor_name": "Ganesh Guntu",
+          "actor_role": "student",
+          "message": "Submitted ownership claim with identifying details for SAC Room earbuds case."
+        }
+      ]
+    },
+    {
+      "_id": "thr_8f3499e887df",
+      "claim_id": 2,
+      "events": [
+        {
+          "timestamp": "2026-10-30T14:01:52.895431+00:00",
+          "actor_name": "Srinivas Rao",
+          "actor_role": "staff",
+          "message": "Claim approved. Pickup code KLH-4920 issued for Lab Assistant Counter."
+        }
+      ]
+    },
+    {
+      "_id": "thr_76ddef8454fd",
+      "claim_id": 3,
+      "events": [
+        {
+          "timestamp": "2026-10-30T14:01:52.911124+00:00",
+          "actor_name": "Srinivas Rao",
+          "actor_role": "staff",
+          "message": "Ownership verified and wallet handed back to student."
+        }
+      ]
+    }
+  ],
+  "item_sightings": [
+    {
+      "id": "sgt_5dd58dede1",
+      "item_id": 12,
+      "author_id": 3,
+      "author_name": "Pranav Chowdary",
+      "author_roll": "2520030555",
+      "note": "Spotted on System 12 after the 4 PM batch and handed to the Lab 108 assistant.",
+      "created_at": "2026-10-30T14:01:52.722707+00:00"
+    }
+  ]
+}

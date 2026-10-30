@@ -1,0 +1,74 @@
+{
+  "notifications": [
+    {
+      "id": "ntf_100",
+      "userId": 1,
+      "kind": "approved",
+      "title": "Pickup Pass Ready: KLH-4920",
+      "body": "Your CSE DBMS Practical Record Book (Roll 2520030330) is ready at Lab Assistant Counter.",
+      "linkTab": "activity",
+      "read": true,
+      "createdAt": "2026-10-29T11:30:00.000Z"
+    },
+    {
+      "id": "ntf_101",
+      "userId": 1,
+      "kind": "match",
+      "title": "Classmate spotted your Logitech mouse",
+      "body": "Pranav Chowdary noted it was handed to the Lab 108 assistant after the 4 PM batch.",
+      "linkTab": "activity",
+      "read": true,
+      "createdAt": "2026-10-29T10:30:00.000Z"
+    },
+    {
+      "id": "ntf_102",
+      "userId": 2,
+      "kind": "claim",
+      "title": "Your claim CLM-2041 is with the SAC Desk",
+      "body": "Campus Helpdesk is reviewing your ownership details for the earbuds case found in SAC Room.",
+      "linkTab": "activity",
+      "read": false,
+      "createdAt": "2026-10-28T13:15:00.000Z"
+    },
+    {
+      "id": "ntf_103",
+      "userId": 5,
+      "kind": "desk",
+      "title": "1 ownership claim awaiting desk check",
+      "body": "Ganesh Guntu submitted identifying details for KLH-F104 at SAC Room.",
+      "linkTab": "desk",
+      "read": false,
+      "createdAt": "2026-10-28T13:16:00.000Z"
+    }
+  ],
+  "pickupPasses": {
+    "KLH-8814": {
+      "pickupCode": "KLH-8814",
+      "claimCode": "CLM-1988",
+      "itemTitle": "Slim Tan Leather Cardholder Wallet",
+      "pickupDesk": "Indoor Sports Desk",
+      "status": "reunited",
+      "issuedAt": "2026-10-27T10:00:00.000Z"
+    }
+  },
+  "activityFeed": [
+    {
+      "id": "act_1",
+      "summary": "Tan Leather Cardholder reunited at Indoor Sports Desk",
+      "place": "Indoor Sports Room",
+      "when": "2 days ago"
+    },
+    {
+      "id": "act_2",
+      "summary": "Casio ClassWiz Calculator matched with Classroom 203 report",
+      "place": "Classroom 203",
+      "when": "Yesterday"
+    },
+    {
+      "id": "act_3",
+      "summary": "Navy Steel Water Flask turned in safely after lunch hour",
+      "place": "Canteen",
+      "when": "Yesterday"
+    }
+  ]
+}

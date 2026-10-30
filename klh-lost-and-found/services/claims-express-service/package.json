@@ -1,0 +1,13 @@
+{
+  "name": "klh-claims-express-service",
+  "version": "1.0.0",
+  "description": "KLH University Lost & Found — Notifications, Pickup Pass & Event Consumer Service (Node.js/Express)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}

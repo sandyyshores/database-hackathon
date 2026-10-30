@@ -1,0 +1,43 @@
+name: KLH Lost and Found CI/CD
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  backend-fastapi-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Python dependencies
+        working-directory: services/catalog-matching-fastapi
+        run: pip install -r requirements.txt
+      - name: Run FastAPI and Semantic Matcher tests
+        working-directory: services/catalog-matching-fastapi
+        run: pytest tests/ -v
+
+  frontend-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install and build KLH portal UI
+        working-directory: frontend
+        run: |
+          npm install
+          npm run build
+
+  container-verification:
+    runs-on: ubuntu-latest
+    needs: [backend-fastapi-tests, frontend-build]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate Docker Compose specification
+        run: docker compose config -q
